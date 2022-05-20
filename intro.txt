@@ -1,5 +1,0 @@
-Welcome to Latte!
-
-Current version: 1.5
-
-Click "New" to create a new file or "Open" to open existing file!
