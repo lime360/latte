@@ -1,10 +1,6 @@
 # Latte
 Latte is an open-source, fancy and cool text editor!
 
-***NOTE:*** v1.5 is officially confirmed as the final update of the app, that means the entire repository will be archived.
-
-You can fork the repo or use [Espresso](https://github.com/Azapru/espresso) or any other text editor...
-
 # Buliding Latte
 To build Latte, you need to:
 
