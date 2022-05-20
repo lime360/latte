@@ -1,0 +1,9 @@
+Latte is a text-editor that replicates Notepad
+
+Originally v1.5 was planned to be the last version of Latte, but then i changed my
+mind and finished it completely to be the remake of Notepad
+
+Developed by lime360 using Clickteam Fusion 2.5
+
+P.S. You can also check out Espresso, which is a modification of Latte that features
+Lua scripting, live HTML editor and lots of more features!
