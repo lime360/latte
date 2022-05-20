@@ -4,9 +4,18 @@ Latte is an open-source, fancy and cool text editor!
 # Buliding Latte
 To build Latte, you need to:
 
-1. [Get Clickteam Fusion 2.5](https://store.steampowered.com/app/248170/Clickteam_Fusion_25/)
-2. Download the code and unpack latte_source.mfa file
-3. Open it in your Fusion 2.5 editor
-4. Pick Windows or any platform you want to export (you need to install additional exporters)
-5. Click "Build and Run" and pick the direction you want to save your compiled tool
-6. Great, now you can use Latte!
+1. [Get Clickteam Fusion 2.5](https://store.steampowered.com/app/248170/Clickteam_Fusion_25/) and [Inno Setup](https://jrsoftware.org/isinfo.php)
+2. Download the code or clone using Git
+
+## Application
+1. Open latte_source.mfa
+2. Create a folder and copy the following files:
+   * changelog.txt
+   * secret/title.txt
+3. Click "Build & Run" and you are done!
+
+## Installation
+1. Open latte-setup.iss
+2. Click "Run", it'll automatically create an installer
+3. After installation, put folder named secrets with title.txt inside of application's directory, usually it's Program Files or Program Files (x86)
+4. You are now done!
