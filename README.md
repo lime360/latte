@@ -8,14 +8,14 @@ To build Latte, you need to:
 2. Download the code or clone using Git
 
 ## Application
-1. Open latte_source.mfa
+1. Open `latte_source.mfa`
 2. Create a folder and copy the following files:
-   * changelog.txt
-   * secret/title.txt
+   * `changelog.txt`
+   * `secret/title.txt`
 3. Click "Build & Run" and you are done!
 
 ## Installation
-1. Open latte-setup.iss
+1. Open `latte-setup.iss`
 2. Click "Run", it'll automatically create an installer
-3. After installation, put a folder named secrets with title.txt inside of application's directory, usually it's Program Files or Program Files (x86)
+3. After installation, put a folder named `secret` with `title.txt` inside of application's directory, usually it's Program Files or Program Files (x86)
 4. You are done!
