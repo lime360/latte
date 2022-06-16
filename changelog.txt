@@ -1,7 +1,0 @@
-Latte v2.0
-
-Changelog:
-
-* Renamed about.txt to changelog.txt
-* Added menu bar
-* Fixed some stuff
