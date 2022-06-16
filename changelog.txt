@@ -1,0 +1,6 @@
+Latte v2.5
+
+Changelog:
+
+* Changed encoding to UTF-8
+* Made it look like it's 100% Notepad
