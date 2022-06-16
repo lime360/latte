@@ -17,5 +17,4 @@ To build Latte, you need to:
 ## Installation
 1. Open `latte-setup.iss`
 2. Click "Run", it'll automatically create an installer
-3. After installation, put a folder named `secret/` with `title.txt` inside of application's directory, usually it's Program Files or Program Files (x86)
-4. You are done!
+3. You are done!
